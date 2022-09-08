@@ -1,6 +1,6 @@
-## Shell, basics and script descriptions ##
+## Shell, Permissions ##
 
- An introductory crash course in the Shell on how to navigate directories using `cd`, `pwd`, `ls`, how to look around using `ls`, `less`, and `file`, and how to manipulate files with `cp`, `mv`, `rm`, and `mkdir`. Further practices includes working with the `type`, `which`, `help`, and `man` commands, implementing wildcards, reading man pages, creating links, and using keyboard shortcuts in Bash.
+ Shell permissions on the use of `chmod`, `sudo`, `su`, `chown`, and `chgrp` commands to represent and change Linux file permissions and change users in the shell.
 
 - [0-iam_betty](https://github.com/Callistus25/alx-system_engineering-devops/blob/main/0x01-shell_permissions/0-iam_betty) : script that switches the current user to the user betty
 - [1-who_am_i](https://github.com/Callistus25/alx-system_engineering-devops/blob/main/0x01-shell_permissions/1-who_am_i): script that prints the effective username of the current user.
